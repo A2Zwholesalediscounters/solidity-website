@@ -29,7 +29,7 @@
     "eslint-config-next": "13.1.6",
     "feed": "^4.2.2",
     "framer-motion": "^8.5.4",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^4.1.1",
     "leaflet": "^1.9.4",
     "leaflet-geosearch": "3.6.1",
     "next": "13.5.6",
